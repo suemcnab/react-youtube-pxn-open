@@ -1,6 +1,6 @@
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
-# react-youtube-pxn
+# react-youtube-pxn-open
 Live search and play YouTube videos. The UI is created with ReactJS and explores using Semantic UI with React. I found myself using it a lot and having ideas to extend it into a more fully fledged application with user saved searches. It's just a bit of fun at the moment. It is not a production ready application, but it does include a dev server tool chain.
 
 
