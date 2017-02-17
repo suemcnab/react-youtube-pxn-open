@@ -17,5 +17,6 @@ Live search and play YouTube videos. The UI is created with ReactJS and explores
 You must obtain your own API-key to use this.
 
 Here is the outcome:
-![Alt text](react-youtube-pxn-open/react-youtube.png?raw=true "React YouTube Screen Shot")
+![alt text](https://github.com/suemcnab/react-youtube-pxn-open/blob/master/react-youtube.png "React YouTube Screen Shot")
+
 
