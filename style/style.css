@@ -1,0 +1,80 @@
+/******* GLOBAL *********/
+/* Normalisation styles - aim for almost nothing here */
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #bbb !important;
+}
+
+/******* SEMANTIC UI OVERRIDES *********/
+
+.segment{
+	margin: 5% auto !important;
+	width: 90% !important;
+	min-width: 910px !important;
+	padding: 2em !important;
+	border: 1px solid #669999 !important;
+	box-shadow: 2px 2px 10px #666 !important;
+}
+
+/******* COMPONENT SPECIFIC STYLES  *********/
+
+.meta-time {
+	font-size: 0.75rem;
+	color: #006666;
+}
+
+.meta-info {
+	font-size: 0.9rem;
+	color: #006666;
+}
+
+.meta-description {
+	font-size: 1.2rem;
+	color: #006666;
+}
+
+.meta-big-title {
+	padding-top:2rem;
+	font-size: 1.5rem;
+	color: #000;
+}
+
+.meta-small-title {
+	text-align: top;
+	font-size: 1.0rem;
+	color: #000;
+}
+
+.search-bar {
+	margin: 15px;
+	text-align: center;
+}
+
+.video-item img {
+	width: 400px;
+
+}
+
+.video-detail .details {
+	margin-top: 10px;
+	padding: 10px;
+}
+
+.item-panel {
+	border: 1px solid #fff;
+	border-radius: 0.5em;
+	padding-top: 1em 0 2em 0;
+	cursor: pointer;
+}
+
+.item-panel:hover {
+	border: 1px solid #99cccc;
+	border-radius: 0.5em;
+	background-color: #eee;
+}
+
+img.thumbnail {
+	display: block;
+	margin: 1em auto 0 auto;
+}
